@@ -1,2 +1,3 @@
 # CSS-Project
-CSS Beginner Level Project
+CSS Beginner Level Traffic Light Code
+
